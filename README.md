@@ -1,7 +1,7 @@
 ### Olá galera, Sou a Daniella Teles 👋
 
 
-- 🔭 Atualmente estou me aventurando no mundo da Tecnologia e a procura do meu primeiro emprego 
+- 🔭 Atualmente estou me aventurando no mundo da Tecnologia 
 - 🌱 Estou aprendendo Python, Banco de Dados (SQL) e JavaScript
 - 🤔 Estou procurando ajuda com Python
 - 📫 Entre em contato comigo pelo email: daniella_teles@msn.com
