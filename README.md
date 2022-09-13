@@ -1,9 +1,8 @@
 ### Olá galera, Sou a Daniella Teles 👋
 
 
-- 🔭 Atualmente estou me aventurando no mundo da Tecnologia 
-- 🌱 Estou aprendendo Python, Banco de Dados (SQL) e JavaScript
-- 🤔 Estou procurando ajuda com Python
+- 🔭 Atualmente estou cursando Redes de Computadores na FATEC-Indaiatuba
+- 🌱 Sei um pouquinho de Python.
 - 📫 Entre em contato comigo pelo email: daniella_teles@msn.com
 - 😄 Pronouns: ela/dela
 
